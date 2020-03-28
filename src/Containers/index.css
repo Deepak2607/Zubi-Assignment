@@ -1,0 +1,35 @@
+.button{
+    margin-left:40px;
+    margin-top:80px
+}
+
+.text{
+    margin-top:70px
+}
+
+.margin{
+    margin-top:60px
+}
+
+.center{
+    align-content: center
+}
+
+.color{
+    color: lightseagreen;
+    font-weight: 500
+}
+
+.bold{
+    font-weight: bold
+}
+
+.div{
+    margin-left:40px;
+    margin-top:100px;
+}
+
+.hr{
+    border-top: 1px dashed black; 
+}
+
