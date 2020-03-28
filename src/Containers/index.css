@@ -4,7 +4,9 @@
 }
 
 .text{
-    margin-top:70px
+    margin-top:70px;
+    color: lightseagreen;
+    font-weight: 600
 }
 
 .margin{
@@ -30,6 +32,6 @@
 }
 
 .hr{
-    border-top: 1px dashed black; 
+    border-top: 2px dashed lightseagreen;; 
 }
 
